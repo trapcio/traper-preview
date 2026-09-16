@@ -4,9 +4,9 @@ Nowa propozycja strony biura podróży TRAPER w Rzeszowie, oparta na obecnych zd
 
 ## Podgląd
 
-https://traper-podroze.obszar-roboc-3395.chatgpt.site
+https://trapcio.github.io/traper-preview/
 
-Podgląd jest hostowany przez Sites i zachowuje ustawienia dostępu właściciela. Wysłanie kodu do GitHuba nie uruchamia automatycznie wdrożenia.
+Strona jest automatycznie publikowana przez GitHub Pages z katalogu `dist` po zmianach na branchu `main`.
 
 ## Pliki
 
